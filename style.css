@@ -1,0 +1,22 @@
+body {
+    color: brown;
+    background-color: orange;
+}
+
+#tabla1 {
+    width: 800px;
+    background-color: #FFECC0;
+    border-spacing: 0px;
+}
+
+.width150 {
+    width: 150px;
+    text-align: center;
+}
+
+#div1 {
+    margin: auto;
+    width: 300px;
+    background-color: orange;
+    text-align: center;
+}
